@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+*{
+  background-color:rgb(5, 5, 73);
+  text-align: center;
+  color: white;
+}
+
+#listaTempo{
+  text-align: left;
+}
